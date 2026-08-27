@@ -111,9 +111,13 @@ Build/NoesisGUI-win-x86_64-vs2022.sln
 
 ## Screenshots / 截图
 
-Screenshots will be added after the public test pass.
+![Noesis Studio ImageSource picker overview](screenshots/image-picker-overview.png)
 
-截图将在公开测试完成后补充。
+The custom picker with vertical folder navigation, first-letter filtering,
+recursive file results, and thumbnail previews.
+
+自定义选择器完整界面：包含竖向文件夹导航、首字母筛选、递归文件结果和
+缩略预览图。
 
 ## Compatibility / 兼容性
 
