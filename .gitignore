@@ -1,0 +1,10 @@
+.image-picker-backup/
+.vs/
+*.user
+*.suo
+*.pdb
+*.exe
+*.dll
+*.lib
+*.obj
+ImagePickerState
