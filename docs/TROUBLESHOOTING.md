@@ -6,7 +6,7 @@
 
 - 确认运行的是重新构建后的 `App.StudioTool.exe`。
 - `Image.Source` 使用单击 `Source` 文字。
-- `ImageBrush.ImageSource` 使用双击 `ImageSource` 文字。
+- `ImageBrush.ImageSource` 使用单击 `ImageSource` 文字。
 - 确认当前打开的是带有 `.noesis` 文件的项目，而不是单独打开 XAML。
 
 ### 弹窗打开后没有图片
@@ -27,7 +27,7 @@
 
 - Verify that you are running the rebuilt `App.StudioTool.exe`.
 - Click the `Source` label for `Image.Source`.
-- Double-click the `ImageSource` label for an `ImageBrush`.
+- Click the `ImageSource` label for an `ImageBrush`.
 - Open a project that has a `.noesis` file instead of opening an isolated XAML.
 
 ### The picker opens but contains no images

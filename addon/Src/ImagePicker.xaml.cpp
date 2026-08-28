@@ -209,15 +209,6 @@ void ImagePicker::Install(Noesis::FrameworkElement* studio)
             }
             return;
         }
-        if (imageSource && args.clickCount != 2)
-        {
-            if (sHave)
-            {
-                sBase(sender, event);
-            }
-            return;
-        }
-
         Noesis::BaseComponent* model = label->GetDataContext();
         if (model == nullptr)
         {

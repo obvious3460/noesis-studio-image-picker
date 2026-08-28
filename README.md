@@ -20,8 +20,7 @@
 - 记住最近浏览目录、字母筛选和最后选择的图片。
 - 支持 `Image.Source`，以及 `Background`、`Foreground` 等属性中的
   `ImageBrush.ImageSource`。
-- 保留 Studio 默认下拉选择：单击 `Source` 文字打开扩展界面；双击
-  `ImageSource` 文字打开扩展界面。
+- 保留 Studio 默认下拉选择：单击 `Source` 或 `ImageSource` 文字打开扩展界面。
 
 ### 要求
 
@@ -54,7 +53,7 @@ Build/NoesisGUI-win-x86_64-vs2022.sln
 ### 使用
 
 - `Image.Source`：单击属性左侧的 `Source` 文字。
-- `ImageBrush.ImageSource`：双击 `ImageSource` 文字。
+- `ImageBrush.ImageSource`：单击 `ImageSource` 文字。
 - 单击图片条目即可写入属性并自动关闭弹窗。
 
 ## English
@@ -73,8 +72,8 @@ not enough.
 - Restores the last folder, letter filter, and selected image.
 - Supports `Image.Source` and `ImageBrush.ImageSource` inside properties such
   as `Background` and `Foreground`.
-- Preserves the native Studio selector: click the `Source` label or
-  double-click the `ImageSource` label to open the custom picker.
+- Preserves the native Studio selector: click the `Source` or `ImageSource`
+  label to open the custom picker.
 
 ### Requirements
 
@@ -106,7 +105,7 @@ Build/NoesisGUI-win-x86_64-vs2022.sln
 ### Usage
 
 - `Image.Source`: click the `Source` property label.
-- `ImageBrush.ImageSource`: double-click the `ImageSource` property label.
+- `ImageBrush.ImageSource`: click the `ImageSource` property label.
 - Click an image entry to apply it and close the popup.
 
 ## Screenshots / 截图
